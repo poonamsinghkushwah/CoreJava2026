@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\poona\eclipse-workspace\CoreJava2026\.metadata\.plugins\org.eclipse.jdt.core
+2298344905.index
+1290494911.index
+1865797976.index
